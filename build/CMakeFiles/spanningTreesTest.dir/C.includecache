@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ken/Documents/Discrete-Math-Graph-Library/libfdr/jrb.h
+jval.h
+/home/ken/Documents/Discrete-Math-Graph-Library/libfdr/jval.h
+
+/home/ken/Documents/Discrete-Math-Graph-Library/libfdr/jval.h
+
+/home/ken/Documents/Discrete-Math-Graph-Library/src/graph.h
+../libfdr/jrb.h
+/home/ken/Documents/Discrete-Math-Graph-Library/libfdr/jrb.h
+
+/home/ken/Documents/Discrete-Math-Graph-Library/src/spanningTrees.h
+graph.h
+/home/ken/Documents/Discrete-Math-Graph-Library/src/graph.h
+
+/home/ken/Documents/Discrete-Math-Graph-Library/tests/static-tests/spanningTreesTest.c
+../../src/spanningTrees.h
+/home/ken/Documents/Discrete-Math-Graph-Library/src/spanningTrees.h
+stdio.h
+-
+

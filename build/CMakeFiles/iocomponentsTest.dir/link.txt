@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/iocomponentsTest.dir/tests/graphviz-tests/iocomponentsTest.o CMakeFiles/iocomponentsTest.dir/io/iocomponents.o CMakeFiles/iocomponentsTest.dir/io/iohelper.o  -o iocomponentsTest  graph/libgraph.a fdr/libfdr.a 

@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/spanningTreesTest.dir/tests/static-tests/spanningTreesTest.o  -o spanningTreesTest  graph/libgraph.a fdr/libfdr.a 

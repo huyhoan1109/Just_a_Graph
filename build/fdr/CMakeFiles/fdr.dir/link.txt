@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfdr.a  CMakeFiles/fdr.dir/dllist.o CMakeFiles/fdr.dir/fields.o CMakeFiles/fdr.dir/jrb.o CMakeFiles/fdr.dir/jval.o
+/usr/bin/ranlib libfdr.a

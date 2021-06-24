@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/topoTest.dir/tests/static-tests/topoTest.o  -o topoTest  graph/libgraph.a fdr/libfdr.a 

@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/iohuffmanTest.dir/tests/graphviz-tests/iohuffmanTest.o CMakeFiles/iohuffmanTest.dir/io/iohuffman.o CMakeFiles/iohuffmanTest.dir/io/iohelper.o  -o iohuffmanTest  graph/libgraph.a fdr/libfdr.a 

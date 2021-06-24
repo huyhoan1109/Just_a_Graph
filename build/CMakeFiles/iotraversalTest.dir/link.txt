@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/iotraversalTest.dir/tests/graphviz-tests/iotraversalTest.o CMakeFiles/iotraversalTest.dir/io/iodfsbfs.o CMakeFiles/iotraversalTest.dir/io/iohelper.o  -o iotraversalTest  graph/libgraph.a fdr/libfdr.a 

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ken/Documents/Discrete-Math-Graph-Library/src/huffman.h
+
+/home/ken/Documents/Discrete-Math-Graph-Library/tests/static-tests/huffmanTest.c
+../../src/huffman.h
+/home/ken/Documents/Discrete-Math-Graph-Library/src/huffman.h
+stdio.h
+-
+

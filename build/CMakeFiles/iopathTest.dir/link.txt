@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/iopathTest.dir/tests/graphviz-tests/iopathTest.o CMakeFiles/iopathTest.dir/io/iopath.o CMakeFiles/iopathTest.dir/io/iohelper.o  -o iopathTest  graph/libgraph.a fdr/libfdr.a 

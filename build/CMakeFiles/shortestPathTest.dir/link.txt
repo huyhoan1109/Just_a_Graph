@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/shortestPathTest.dir/tests/static-tests/shortestPathTest.o  -o shortestPathTest  graph/libgraph.a fdr/libfdr.a 

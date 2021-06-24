@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/connectedTest.dir/tests/static-tests/connectedTest.o  -o connectedTest  graph/libgraph.a fdr/libfdr.a 

@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/coloringTest.dir/tests/static-tests/coloringTest.o  -o coloringTest  graph/libgraph.a fdr/libfdr.a 

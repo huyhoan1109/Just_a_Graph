@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/dfsBfsTest.dir/tests/static-tests/dfsBfsTest.o  -o dfsBfsTest  graph/libgraph.a fdr/libfdr.a 

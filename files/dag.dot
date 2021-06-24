@@ -1,0 +1,18 @@
+digraph {
+	0 [fillcolor = yellow, style = filled];
+	1 [fillcolor = yellow, style = filled];
+	6 [fillcolor = yellow, style = filled];
+	7 [fillcolor = yellow, style = filled];
+	0 -> 7[label= 9,color = green, genwidth = 2.0]
+	1 -> 0[label= 13,color = green, genwidth = 2.0]
+	2 -> 8[label= 17];
+	3 -> 0[label= 7];
+	4 -> 1[label= 4];
+	4 -> 5[label= 15];
+	4 -> 9[label= 12];
+	5 -> 0[label= 9];
+	6 -> 1[label= 20];
+	7 -> 6[label= 1];
+	8 -> 1[label= 5];
+	8 -> 4[label= 8];
+}

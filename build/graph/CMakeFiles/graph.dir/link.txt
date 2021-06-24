@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgraph.a  CMakeFiles/graph.dir/coloring.o CMakeFiles/graph.dir/components.o CMakeFiles/graph.dir/graph.o CMakeFiles/graph.dir/huffman.o CMakeFiles/graph.dir/prufer.o CMakeFiles/graph.dir/spanningTrees.o
+/usr/bin/ranlib libgraph.a

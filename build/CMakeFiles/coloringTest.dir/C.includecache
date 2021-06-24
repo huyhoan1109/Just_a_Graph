@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ken/Documents/Discrete-Math-Graph-Library/libfdr/jrb.h
+jval.h
+/home/ken/Documents/Discrete-Math-Graph-Library/libfdr/jval.h
+
+/home/ken/Documents/Discrete-Math-Graph-Library/libfdr/jval.h
+
+/home/ken/Documents/Discrete-Math-Graph-Library/src/coloring.h
+graph.h
+/home/ken/Documents/Discrete-Math-Graph-Library/src/graph.h
+
+/home/ken/Documents/Discrete-Math-Graph-Library/src/graph.h
+../libfdr/jrb.h
+/home/ken/Documents/Discrete-Math-Graph-Library/libfdr/jrb.h
+
+/home/ken/Documents/Discrete-Math-Graph-Library/tests/static-tests/coloringTest.c
+../../src/coloring.h
+/home/ken/Documents/Discrete-Math-Graph-Library/src/coloring.h
+stdio.h
+-
+

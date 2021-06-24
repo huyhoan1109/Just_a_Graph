@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/huffmanTest.dir/tests/static-tests/huffmanTest.o  -o huffmanTest  graph/libgraph.a fdr/libfdr.a 

@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/iospanningTreesTest.dir/tests/graphviz-tests/iospanningtreesTest.o CMakeFiles/iospanningTreesTest.dir/io/iospanningtrees.o CMakeFiles/iospanningTreesTest.dir/io/iohelper.o  -o iospanningTreesTest  graph/libgraph.a fdr/libfdr.a 
